@@ -2,7 +2,7 @@
 sap-api-integrations-vehicle-master-readsは、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的に、SAP 車両マスターデータを取得するマイクロサービスです。  
 sap-api-integrations-vehicle-master-readsには、サンプルのAPI Json フォーマットが含まれています。  
 sap-api-integrations-vehicle-master-readsは、オンプレミス版である（＝クラウド版ではない）SAPC4HANA API の利用を前提としています。クラウド版APIを利用する場合は、ご注意ください。  
-https://api.sap.com/api/salesorder/overview    
+https://api.sap.com/api/vehicle/overview  
 
 ## 動作環境
 sap-api-integrations-vehicle-master-readsは、主にエッジコンピューティング環境における動作にフォーカスしています。   
@@ -18,7 +18,7 @@ sap-api-integrations-vehicle-master-readsは、外部システムがクラウド
 ## 本レポジトリ が 対応する API サービス
 sap-api-integrations-vehicle-master-readsが対応する APIサービス は、次のものです。
 
-* APIサービス概要説明 URL: https://api.sap.com/api/salesorder/overview     
+* APIサービス概要説明 URL: https://api.sap.com/api/vehicle/overview   
 * APIサービス名(=baseURL): c4codataapi
 
 ## 本レポジトリ に 含まれる API名
